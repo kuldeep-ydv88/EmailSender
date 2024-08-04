@@ -25,5 +25,5 @@ This project is a Spring Boot application designed to send emails with attachmen
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/Kuldeep-yadav88/EmailSender.git
    cd your-repo-name
